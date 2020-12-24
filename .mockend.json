@@ -1,8 +1,7 @@
 {
   "Photos": [
     {
-      "id:" 1,
-      "name": "photo 1",
+      "id:" 1, "name": "photo 1",
       "desc": "desc for photo 1",
       "image_url": "https://via.placeholder.com/600/92c952",
       "for_sale": false
