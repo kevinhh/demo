@@ -1,29 +1,27 @@
 {
-  "Photos": {
-    [
-      {
-        "id:" 1,
-        "name": "photo 1"
-        "desc": "desc for photo 1"
-        "image_url": "https://via.placeholder.com/600/92c952"
-        "for_sale": false
-      },
-      {
-        "id:" 2,
-        "name": "photo 2"
-        "desc": "desc for photo 2"
-        "image_url": "https://via.placeholder.com/600/771796"
-        "for_sale": true
-      },
-      {
-        "id:" 3,
-        "name": "photo 3"
-        "desc": "desc for photo 3"
-        "image_url": "https://via.placeholder.com/600/24f355"
-        "for_sale": false
-      },
-    ]
-  }
+  "Photos": [
+    {
+      "id:" 1,
+      "name": "photo 1"
+      "desc": "desc for photo 1"
+      "image_url": "https://via.placeholder.com/600/92c952"
+      "for_sale": false
+    },
+    {
+      "id:" 2,
+      "name": "photo 2"
+      "desc": "desc for photo 2"
+      "image_url": "https://via.placeholder.com/600/771796"
+      "for_sale": true
+    },
+    {
+      "id:" 3,
+      "name": "photo 3"
+      "desc": "desc for photo 3"
+      "image_url": "https://via.placeholder.com/600/24f355"
+      "for_sale": false
+    },
+  ],
   "posts": [
     { "id": 1, "title": "My Post 1" },
     { "id": 2, "title": "Post 2" },
