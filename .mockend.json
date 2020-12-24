@@ -1,21 +1,21 @@
 {
   "Photos": [
     {
-      "id:" 1,
+      "id:" 1
       "name": "photo 1"
       "desc": "desc for photo 1"
       "image_url": "https://via.placeholder.com/600/92c952"
       "for_sale": false
     },
     {
-      "id:" 2,
+      "id:" 2
       "name": "photo 2"
       "desc": "desc for photo 2"
       "image_url": "https://via.placeholder.com/600/771796"
       "for_sale": true
     },
     {
-      "id:" 3,
+      "id:" 3
       "name": "photo 3"
       "desc": "desc for photo 3"
       "image_url": "https://via.placeholder.com/600/24f355"
